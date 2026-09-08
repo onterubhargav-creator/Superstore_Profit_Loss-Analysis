@@ -1,2 +1,25 @@
-# Superstore_Profit_Loss-Analysis
-Tableau dashboard analyzing Profit and Loss by Indian States using Superstore data. Identifies top profit states and loss-making regions.
+# 📊 Superstore Profit & Loss Analysis - Indian States
+
+🔗 **Live Dashboard:** https://public.tableau.com/app/profile/onteru.bhargav/vizzes
+🔗 **GitHub Repo:** https://github.com/onterubhargav-creator/Superstore_Profit_Loss-Analysis
+
+### 📌 Overview
+Analyzed Superstore sales data to understand Profit and Loss distribution across Indian states.
+
+### 💡 Key Insights from Dashboard
+- **Top Profitable State:** Bihar - ₹79,618
+- **Dashboard Views:** 2 - Profit Analysis & Loss Analysis
+- **Metric:** Profit (INR) State-wise
+- **Objective:** Help business identify profitable regions vs loss-making regions
+
+### 🛠️ Tools Used
+- Tableau Public - Dashboard Creation
+- Excel - Data Cleaning & Analysis
+- GitHub - Version Control
+
+### 📁 Files
+- Raw Data, Cleaned Data, Tableau File (.twbx)
+
+### 👨‍💻 Author
+Onteru Bhargav | Aspiring Data Analyst
+LinkedIn: linkedin.com/in/onteru-bhargav-0a8321364
