@@ -1,6 +1,6 @@
 # 📊 Superstore Profit & Loss Analysis - Indian States
 
-🔗 **Live Dashboard:** https://public.tableau.com/app/profile/onteru.bhargav/vizzes
+🔗 **Live Dashboard:** https://public.tableau.com/views/Book1_17876410258170/Dashboard1?:language=en-US&publish=yes&:sid=&:redirect=auth&:display_count=n&:origin=viz_share_link
 🔗 **GitHub Repo:** https://github.com/onterubhargav-creator/Superstore_Profit_Loss-Analysis
 
 ### 📌 Overview
